@@ -1,0 +1,19 @@
+user_id,item_id,action,timestamp
+alice,iphone 13,click,2024-10-20 10:15:00
+alice,ipad,click,2024-10-20 10:16:00
+alice,macbook,click,2024-10-20 10:17:00
+bob,iphone 13,click,2024-10-20 10:10:00
+bob,airpods,click,2024-10-20 10:12:00
+bob,ipad,click,2024-10-20 10:13:00
+carol,galaxy s21,click,2024-10-20 10:20:00
+carol,galaxy buds,click,2024-10-20 10:22:00
+carol,ipad,click,2024-10-20 10:25:00
+dave,macbook,click,2024-10-20 10:05:00
+dave,iphone 13,click,2024-10-20 10:08:00
+dave,ipad,click,2024-10-20 10:10:00
+eve,galaxy s21,click,2024-10-20 10:18:00
+eve,ipad,click,2024-10-20 10:20:00
+eve,airpods,click,2024-10-20 10:23:00
+frank,macbook,click,2024-10-20 10:03:00
+frank,airpods,click,2024-10-20 10:06:00
+frank,ipad,click,2024-10-20 10:09:00
